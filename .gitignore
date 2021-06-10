@@ -1,2 +1,2 @@
 *.clas
-*./build
+/build
